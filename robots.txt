@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lucascerqueira.adv.br/sitemap.xml
+Sitemap: https://lucassilvaccerqueira-design.github.io/escritorio-cerqueira/sitemap.xml
